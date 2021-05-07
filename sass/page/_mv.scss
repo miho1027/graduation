@@ -31,12 +31,9 @@
 @keyframes fadein {
     100% {  opacity: 1;}
 }
- 
-/*以下遅延の指定*/
 .site__ttl {animation-delay: 1s;}
 .mv__ttl {animation-delay: 3s;}
 .mv__date {animation-delay: 5s;}
-
 
   .circle-line{
     display: flex;
